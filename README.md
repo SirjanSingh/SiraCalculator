@@ -1,2 +1,9 @@
-# angryBirdsStage2
-Angry Birds stage 2 with Class Inheritance and Images
+https://sirjansingh.github.io/SiraCalculator/
+
+#A calculator still in progress
+..
+Suggestions are always welcomed.
+
+.
+
+
